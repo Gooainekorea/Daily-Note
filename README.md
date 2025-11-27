@@ -16,9 +16,9 @@
     <th width="14%">test</th>
   </tr>
    <tr height="40">
-    <th width="14%" a="https://www.naver.com/">a tag 안되는데?</th>
+    <th width="14%" a href="https://www.naver.com/">a tag 안되는데?</th>
     <th width="14%">아 이거 링크를 어떻게 걸지</th>
-    <th width="14%"><br><a="https://www.naver.com/">a tag 따로넣어봄</a></th>
+    <th width="14%"><a href="https://www.naver.com/">미쳤나봐 href 뺐어</a></th>
     <th width="14%">test</th>
     <th width="14%">test</th>
     <th width="14%">test</th>
